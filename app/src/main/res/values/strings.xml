@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nature\'s Thermometer</string>
+    <string name="about">Can you believe it?.
+        You can tell the ouside temperatue by couning the CHIRPS of a CRICKET.
+        Just count the CHIRPS of CRICKET in 25 Seconds and write down bellow.</string>
+    <string name="temo">Calculate Temperature</string>
+</resources>
